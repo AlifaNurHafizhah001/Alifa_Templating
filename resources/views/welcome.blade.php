@@ -44,7 +44,7 @@
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"> </span></button>
           <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
-              <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="index.html"></a></li>
+              <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="index.html"></a>Beranda</li>
               <li class="nav-item px-2"><a class="nav-link" href="#services">Layanan Kami</a></li>
               <li class="nav-item px-2"><a class="nav-link" href="#findUs">Lokasi Kami</a></li>
             </ul>
@@ -554,20 +554,20 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-6">
-              <h2 class="fw-bold text-white">Get an update every week</h2>
-              <p class="text-300">We ensure that your product is delivered in the safest possible<br />manner, at the correct location, at the right time.</p>
+              <h2 class="fw-bold text-white">Dapatkan pembaruan setiap minggu</h2>
+              <p class="text-300">Kami memastikan produk Anda dikirim dengan cara paling aman,<br />ke lokasi yang tepat, pada waktu yang tepat.</p>
             </div>
             <div class="col-lg-6">
-              <h5 class="text-primary mb-3">SUBSCRIBE TO NEWSLETTER </h5>
+              <h5 class="text-primary mb-3">BERLANGGANAN NEWSLETTER </h5>
               <form class="row gx-2 gy-2 align-items-center">
                 <div class="col">
                   <div class="input-group-icon">
-                    <label class="visually-hidden" for="inputEmailCta">Address</label>
+                    <label class="visually-hidden" for="inputEmailCta">Alamat</label>
                     <input class="form-control input-box form-quriar-control text-light" id="inputEmailCta" type="email" placeholder="Enter your mail" />
                   </div>
                 </div>
                 <div class="d-grid gap-3 col-sm-auto">
-                  <button class="btn btn-danger" type="submit">Subscribe</button>
+                  <button class="btn btn-danger" type="submit">Berlangganan</button>
                 </div>
               </form>
             </div>
@@ -589,30 +589,30 @@
         <div class="container">
           <div class="row">
             <div class="col-12 col-sm-12 col-lg-6 mb-4 order-0 order-sm-0"><a class="text-decoration-none" href="#"><img src="assets/img/gallery/footer-logo.png" height="51" alt="" /></a>
-              <p class="text-500 my-4">The most trusted Courier<br />company in your area.</p>
+              <p class="text-500 my-4">Perusahaan kurir paling terpercaya<br />di daerah Anda.</p>
             </div>
             <div class="col-6 col-sm-4 col-lg-2 mb-3 order-2 order-sm-1">
-              <h5 class="lh-lg fw-bold mb-4 text-light font-sans-serif">Other links </h5>
+              <h5 class="lh-lg fw-bold mb-4 text-light font-sans-serif">Tautan Lainnya </h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-500" href="#!">Blogs</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Movers website</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Traffic Update</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Blog</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Situs Jasa Pindahan</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Update Lalu Lintas</a></li>
               </ul>
             </div>
             <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
-              <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif">Services</h5>
+              <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif">Layanan</h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-500" href="#!">Corporate goods</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Artworks</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Documents</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Barang Perusahaan</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Karya Seni</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Dokumen</a></li>
               </ul>
             </div>
             <div class="col-6 col-sm-4 col-lg-2 mb-3 order-3 order-sm-2">
-              <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif"> Customer Care</h5>
+              <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif"> Layanan Pelanggan</h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-500" href="#!">About Us</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Contact US</a></li>
-                <li class="lh-lg"><a class="text-500" href="#!">Get Update</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Tentang Kami</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Hubungi Kami</a></li>
+                <li class="lh-lg"><a class="text-500" href="#!">Dapatkan Update</a></li>
               </ul>
             </div>
           </div>
@@ -633,13 +633,13 @@
         <div class="container">
           <div class="row justify-content-md-between justify-content-evenly py-4">
             <div class="col-12 col-sm-8 col-md-6 col-lg-auto text-center text-md-start">
-              <p class="fs--1 my-2 fw-bold text-200">All rights Reserved &copy; Your Company, 2021</p>
+              <p class="fs--1 my-2 fw-bold text-200">Semua hak dilindungi &copy; Quriarbox, 2025</p>
             </div>
             <div class="col-12 col-sm-8 col-md-6">
               <p class="fs--1 my-2 text-center text-md-end text-200"> Made with&nbsp;
                 <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="#F95C19" viewBox="0 0 16 16">
                   <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"></path>
-                </svg>&nbsp;by&nbsp;<a class="fw-bold text-primary" href="https://themewagon.com/" target="_blank">ThemeWagon </a>
+                </svg>&nbsp;by&nbsp;<a class="fw-bold text-primary" href="https://themewagon.com/" target="_blank">Alifa Nur Hafizhah </a>
               </p>
             </div>
           </div>
